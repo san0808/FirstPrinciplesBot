@@ -1,2 +1,2 @@
-# Assist
-an interface to help college students get better by organizing their schedule and give the necssary emotional support
+# FundaSoch
+an interface to help People Think in First Principles

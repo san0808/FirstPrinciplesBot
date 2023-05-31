@@ -4,11 +4,11 @@ function NavTop() {
   return (
     <div className={styles.topnav}>
         <div className = {styles.navlogo}>
-          <a href="/">Assist</a>
+          <a href="/">FundaSoch</a>
         </div>
         <div className = {styles.navlinks}>
           <a href="https://elfin-fireman-b6a.notion.site/Boctor-Docs-3aac831e62a947289304c95c476b93f2" target="_blank">Docs</a>
-          <a href="https://github.com/BitNaysh/Boctor" target="_blank">GitHub</a>
+          <a href="https://github.com/san0808/FirstPrinciplesBot" target="_blank">GitHub</a>
         </div>       
       </div>
   )

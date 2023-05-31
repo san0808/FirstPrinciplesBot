@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 import Image from 'next/image'
 import ReactMarkdown from 'react-markdown'
 import CircularProgress from '@mui/material/CircularProgress';
-import Sidebar from '../Components/Sidebar'
+
 
 export default function Chats() {
 
@@ -100,7 +100,7 @@ export default function Chats() {
     <>
       
 
-      <div className='flex '>
+      <div className='mx-auto flex flex-col gap-4'>
         
         <main className={styles.main}>
         <div className = {styles.cloud}>
